@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "price": 199.99,
+      "name": "Smartphone X1",
+      "description": "A sleek smartphone with a powerful processor and vivid display.",
+      "made": "China",
+      "isOfferAvailable": true,
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/a9c04ca9fa51408faf2fac8e0117abb9_9366/Steel_Metal_Bottle_1L_Black_EX7288_01_standard.jpg"
+      
+    },
+    {
+      "id": 2,
+      "price": 599.99,
+      "name": "Laptop Pro",
+      "description": "High-performance laptop for professionals, featuring an Intel i7 processor.",
+      "made": "USA",
+      "isOfferAvailable": false,
+      "img": "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Submariner%20Watch/thumbnail.png"
+    },
+    {
+      "id": 3,
+      "price": 49.99,
+      "name": "Wireless Earbuds",
+      "description": "Compact and comfortable earbuds with noise-cancellation technology.",
+      "made": "Vietnam",
+      "isOfferAvailable": true,
+      "img": "https://cdn.dummyjson.com/products/images/mobile-accessories/Selfie%20Lamp%20with%20iPhone/thumbnail.png"
+    },
+    {
+      "id": 4,
+      "price": 299.99,
+      "name": "Smartwatch G3",
+      "description": "Stylish smartwatch with fitness tracking and heart rate monitoring.",
+      "made": "Germany",
+      "isOfferAvailable": false,
+      "img": "https://cdn.dummyjson.com/products/images/laptops/Apple%20MacBook%20Pro%2014%20Inch%20Space%20Grey/thumbnail.png"
+    },
+    {
+      "id": 5,
+      "price": 99.99,
+      "name": "Bluetooth Speaker",
+      "description": "Portable speaker with deep bass and 10-hour battery life.",
+      "made": "South Korea",
+      "isOfferAvailable": true,
+      "img": "https://cdn.dummyjson.com/products/images/vehicle/Charger%20SXT%20RWD/thumbnail.png"
+    },
+    {
+      "id": 6,
+      "price": 1200.00,
+      "name": "4K OLED TV",
+      "description": "55-inch 4K Ultra HD OLED TV with vibrant colors and stunning clarity.",
+      "made": "Japan",
+      "isOfferAvailable": true,
+      "img": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/thumbnail.png"
+    }
+  ]
+  
